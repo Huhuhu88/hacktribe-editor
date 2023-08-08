@@ -6,3 +6,14 @@ INFO: Hacktribe Editor
 
 INFO: https://github.com/bangcorrupt/hacktribe
 
+DEBUG: Apply firmware patch
+INFO: Electribe 2 Sampler firmware version 2.02 found.
+
+INFO: Applying patch...
+INFO: Modifying header...
+INFO: Checking hash...
+
+INFO: Saving patched firmware to D:\KORG\electribe sampler\hacked-SYSTEM.VSB
+
+INFO: Firmware patched successfully.
+INFO: -------------------------------------------------
